@@ -1,0 +1,24 @@
+{
+  "name": "bastion",
+  "version": "1.0.0",
+  "description": "A NoSQL Social Network API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sly-Ry/Bastion.git"
+  },
+  "author": "Ryan Williams",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sly-Ry/Bastion/issues"
+  },
+  "homepage": "https://github.com/Sly-Ry/Bastion#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.2.4" 
+  }
+}
