@@ -18,8 +18,8 @@ const userController = {
     },
 
     // Gets single User by id
-    getUserById(req, res) {
-        User.findOne({ _id: process_params._id })
+    getUserById({ params }, res) {
+        User.findOne({ _id: params.id })
         .populate({
             path: 'thoughts',
             select: '-__v'
