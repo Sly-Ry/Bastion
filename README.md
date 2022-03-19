@@ -1,42 +1,44 @@
 # Bastion
-A NoSQL Social Network API
-
 ## License
-This project is licensed under MIT.
-
-## Video Link : [Castify Video Link] https://drive.google.com/file/d/1GFEGnS5frimVUFJ-NTdU44_kgjQnkM5H/view
-
+    This project is licensed under MIT.
+  ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## Table of Contents
-Description
-Languages
-Installation
-Usage
+  - [Description](#description)
+  - [Languages](#languages)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contributions](#contributions)
+  - [Testing](#testing-instructions)
+  - [Contact](#contact-information)
+
+
+## Description
+A NoSQL Social Network API
+
+## Languages 
+
+## Installation
+ ```bash
+npm install yarn
+yarn init
+yarn install
+yarn add express mongoose 
+yarn start || npm start
+```
+## Usage
+  Walkthrough video link : https://drive.google.com/file/d/1GFEGnS5frimVUFJ-NTdU44_kgjQnkM5H/view
+
 Contributions
-Testing
-Contact
-Description Of The Repository
-This application is a proposed back-end for a social media website. It is fully functional and ready to be hooked onto a front end application.
+  [![Ryan Williams](https://contrib.rocks/image?repo=Sly-Ry/NoSpace)](https://github.com/Sly-Ry/NoSpace)
+  [![Andrew Wales](https://contrib.rocks/image?repo=diirtydog/Take-This-Job-And)](https://github.com/diirtydog/Take-This-Job-And)
 
-Languages That Were Used During Creation
-Languages Languages
 
-Installation Instructions
-npm install && npm install mongoose && npm start
-Usage Information
-Magic
+## Testing
+  Insomnia : https://insomnia.rest/download
 
-Contributions
-GitHub Contributors Image
+## Contact Information
+  ryan.williams93@aol.com[![Ryan Williams](https://contrib.rocks/image?repo=Sly-Ry/NoSpace)](https://github.com/Sly-Ry)
+  
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Sly-Ry&show_icons=true)![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=jaredtrp&show_icons=true)
 
-Testing Instructions
-Insomnia
-
-Contact Information
-Andrew Wales
-Github: https://github.com/diirtydog
-Contact Info: andrew.derek.wales@gmail.com
-
-Your Repository's Stats
-
-Your Repository's Stats
