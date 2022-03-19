@@ -40,9 +40,11 @@ yarn start || npm start
 ## Testing
   Insomnia : https://insomnia.rest/download
 
-## Contact Information
-  ryan.williams93@aol.com
-  [![Ryan Williams](https://contrib.rocks/image?repo=Sly-Ry/NoSpace)](https://github.com/Sly-Ry)
+## Contact
+  - Github : [![Ryan Williams](https://contrib.rocks/image?repo=Sly-Ry/NoSpace)](https://github.com/Sly-Ry)
+  - Email : ryan.williams93@aol.com
+  - LinkedIn : https://www.linkedin.com/in/ryan-williams-338334224/
+  - Discord : DireHox#7572
   
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Sly-Ry&show_icons=true)
 
