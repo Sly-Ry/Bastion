@@ -33,8 +33,7 @@ yarn start || npm start
   Walkthrough video link : https://drive.google.com/file/d/1GFEGnS5frimVUFJ-NTdU44_kgjQnkM5H/view
 
 ## Contributions
-- [![Ryan Williams](https://contrib.rocks/image?repo=Sly-Ry/NoSpace)](https://github.com/Sly-Ry/NoSpace)
-- [![Andrew Wales](https://contrib.rocks/image?repo=diirtydog/Take-This-Job-And)](https://github.com/diirtydog/Take-This-Job-And)
+[![Andrew Wales](https://contrib.rocks/image?repo=diirtydog/Take-This-Job-And)](https://github.com/diirtydog/Take-This-Job-And)
 
 
 ## Testing
