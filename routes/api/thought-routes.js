@@ -20,22 +20,20 @@ router
 router
     .route('/:id')
     .get(getThoughtById)
+    .put(alterThought)
+    .delete(removeThought);
 
 // POST single Thought at /api/thoughts/<userId>
 router
     .route('/:userId')
     .post(addthought)
 
-// DELETE a Thought or create reaction at /api/thoughts/<userId>/<thoughtId>
 router
-    .route('/:userId/:thoughtId')
-    .put(alterThought)
-    .put(addReact)
-    .delete(removeThought);
-
+    .route('/:thoughtId/reactions')
+    .post(addReact)
 // DELETE a Reaction at /api/<userId>/<thoughtId>/<reactionId>
 router
-    .route('/:userId/:thoughtId/:id')
+    .route('/:thoughtId/reactions/:reactionId')
     .delete(removeReact);
 
 module.exports = router;
