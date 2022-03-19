@@ -29,16 +29,17 @@ yarn start || npm start
 ## Usage
   Walkthrough video link : https://drive.google.com/file/d/1GFEGnS5frimVUFJ-NTdU44_kgjQnkM5H/view
 
-Contributions
-  [![Ryan Williams](https://contrib.rocks/image?repo=Sly-Ry/NoSpace)](https://github.com/Sly-Ry/NoSpace)
-  [![Andrew Wales](https://contrib.rocks/image?repo=diirtydog/Take-This-Job-And)](https://github.com/diirtydog/Take-This-Job-And)
+## Contributions
+- [![Ryan Williams](https://contrib.rocks/image?repo=Sly-Ry/NoSpace)](https://github.com/Sly-Ry/NoSpace)
+- [![Andrew Wales](https://contrib.rocks/image?repo=diirtydog/Take-This-Job-And)](https://github.com/diirtydog/Take-This-Job-And)
 
 
 ## Testing
   Insomnia : https://insomnia.rest/download
 
 ## Contact Information
-  ryan.williams93@aol.com[![Ryan Williams](https://contrib.rocks/image?repo=Sly-Ry/NoSpace)](https://github.com/Sly-Ry)
+  ryan.williams93@aol.com
+  [![Ryan Williams](https://contrib.rocks/image?repo=Sly-Ry/NoSpace)](https://github.com/Sly-Ry)
   
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Sly-Ry&show_icons=true)![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=jaredtrp&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Sly-Ry&show_icons=true)
 
