@@ -9,14 +9,17 @@
   - [Installation](#installation)
   - [Usage](#usage)
   - [Contributions](#contributions)
-  - [Testing](#testing-instructions)
-  - [Contact](#contact-information)
+  - [Testing](#testing)
+  - [Contact](#contact)
 
 
 ## Description
 A NoSQL Social Network API
 
 ## Languages 
+![Languages](https://img.shields.io/badge/Mongoose-Master-orange)
+![Languages](https://img.shields.io/badge/Javascript-Master-yellow)
+![Languages](https://img.shields.io/badge/Backend-Bandit-green)
 
 ## Installation
  ```bash
