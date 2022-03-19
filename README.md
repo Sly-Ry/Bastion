@@ -1,15 +1,13 @@
 # Bastion
 A NoSQL Social Network API
 
-License
+## License
 This project is licensed under MIT.
 
-License
-
-Video Link : Castify Video 1 Castify Video 2 Castify Video 3
+## Video Link : [Castify Video Link] https://drive.google.com/file/d/1GFEGnS5frimVUFJ-NTdU44_kgjQnkM5H/view
 
 
-Table of Contents
+## Table of Contents
 Description
 Languages
 Installation
